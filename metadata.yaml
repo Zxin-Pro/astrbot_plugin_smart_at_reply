@@ -1,0 +1,5 @@
+name: SmartAtReply
+desc: 根据是否被@决定回复是否带@
+version: v1.0.0
+author: Zxin-Pro
+repo: https://github.com/Zxin-Pro/astrbot_plugin_smart_at_reply

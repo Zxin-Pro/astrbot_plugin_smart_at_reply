@@ -1,0 +1,12 @@
+{
+  "only_reply_when_mentioned": {
+    "description": "仅在被@时才响应（未被@的群消息将不再触发任何回复）",
+    "type": "bool",
+    "default": false
+  },
+  "reply_text": {
+    "description": "被@时的回复内容",
+    "type": "string",
+    "default": "你好，有什么可以帮你的吗？"
+  }
+}
